@@ -106,7 +106,7 @@ Models real-world GPS and routing systems with dynamic traffic analysis, mimicki
 
 ---
 
-## 💼 Why This Matters for Recruiters
+## 💼 Java Skills
 
 These projects showcase my ability to:
 - Build from scratch (no use of built-in Java `Map` or `TreeMap`)
